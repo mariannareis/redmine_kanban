@@ -53,3 +53,4 @@ en:
   label_user_switch: "Switch User"
   kanban_label_management_group: "Management Group"
   kanban_text_management_group_help: "Group that can manage other user's Kanbans. Used on the My Kanban Requests page."
+

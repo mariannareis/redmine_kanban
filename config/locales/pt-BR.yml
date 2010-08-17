@@ -47,7 +47,7 @@ pt-BR:
   kanban_label_incoming_url: "Recém criadas: Url para fazer um link com o titúlo do painel Recém criadas"
   kanban_text_workflow_settings_description: "Restrições quando as tarefas sãp movidas entre os painéis."
   text_my_kanban_requests_title: "Meu Kanban de Requisições"
-  text_user_kanban_requests_title: "Kanban de Requisições de {{usuário}}"
+  text_user_kanban_requests_title: "Kanban de Requisições do {{usuário}}"
   text_kanban_board: "Kanban"
   label_user_switch: "Mudar Usuário"
   kanban_label_management_group: "Grupo de Gerenciamento"
